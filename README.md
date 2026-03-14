@@ -118,14 +118,6 @@ proxy: {
 
 ---
 
-## Resume Bullet Points
-
-> *"Built full-stack equity research platform with FastAPI microservice orchestrating parallel Polygon.io API calls for live financials, 90-day price aggregates, and company fundamentals, with Claude AI generating structured analyst reports including investment thesis, bull/bear cases, and factor scores"*
-
-> *"Architected async Python backend using httpx for concurrent data fetching, reducing report generation latency by parallelizing 4 independent API calls"*
-
----
-
 ## Notes
 
 - Polygon basic tier provides end-of-day pricing (not real-time) — perfect for research use
